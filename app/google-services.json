@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562341407451",
+    "firebase_url": "https://facetime-5d7ac-default-rtdb.firebaseio.com",
+    "project_id": "facetime-5d7ac",
+    "storage_bucket": "facetime-5d7ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562341407451:android:c0b1db1089b30e7adcfafe",
+        "android_client_info": {
+          "package_name": "com.example.facetime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562341407451-ofssvmnmbj1c4attknothqd9bdi9mdqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facetime",
+            "certificate_hash": "72e38cc3ab1c4cc4d6790d0b580557b02e0c41e6"
+          }
+        },
+        {
+          "client_id": "562341407451-dj4qdfqnam69nfbt959bno88402uq2ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJCJJj2puLR3Uh3OtCt5yZn7ehF5WFbCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562341407451-dj4qdfqnam69nfbt959bno88402uq2ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
